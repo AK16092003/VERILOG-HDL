@@ -1,0 +1,253 @@
+$date
+	Wed Oct 05 13:09:07 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module division_tb $end
+$var wire 3 ! Q [2:0] $end
+$var wire 2 " R [1:0] $end
+$var wire 1 # Z $end
+$var reg 3 $ D [2:0] $end
+$var reg 2 % V [1:0] $end
+$scope module uut $end
+$var wire 3 & D [2:0] $end
+$var wire 3 ' Q [2:0] $end
+$var wire 2 ( R [1:0] $end
+$var wire 2 ) V [1:0] $end
+$var wire 1 # Z $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 )
+b0 (
+b0 '
+b0 &
+b0 %
+b0 $
+1#
+b0 "
+b0 !
+$end
+#2
+0#
+b1 )
+b1 %
+b0 $
+#4
+b10 %
+b10 )
+b0 $
+#6
+b11 )
+b11 %
+b0 $
+#8
+1#
+b0 %
+b0 )
+b1 &
+b1 $
+#10
+b1 !
+b1 '
+0#
+b1 )
+b1 %
+b1 $
+#12
+b0 !
+b0 '
+b1 "
+b1 (
+b10 %
+b10 )
+b1 $
+#14
+b0 "
+b0 (
+b11 )
+b11 %
+b1 $
+#16
+b0 !
+b0 '
+1#
+b0 %
+b0 )
+b10 &
+b10 $
+#18
+b10 !
+b10 '
+0#
+b1 )
+b1 %
+b10 $
+#20
+b1 !
+b1 '
+b10 %
+b10 )
+b10 $
+#22
+b0 !
+b0 '
+b10 "
+b10 (
+b11 )
+b11 %
+b10 $
+#24
+b0 "
+b0 (
+1#
+b0 %
+b0 )
+b11 &
+b11 $
+#26
+b11 !
+b11 '
+0#
+b1 )
+b1 %
+b11 $
+#28
+b1 "
+b1 (
+b1 !
+b1 '
+b10 %
+b10 )
+b11 $
+#30
+b0 "
+b0 (
+b11 )
+b11 %
+b11 $
+#32
+b0 !
+b0 '
+1#
+b0 %
+b0 )
+b100 $
+b100 &
+#34
+b100 !
+b100 '
+0#
+b1 )
+b1 %
+b100 $
+#36
+b10 !
+b10 '
+b10 %
+b10 )
+b100 $
+#38
+b0 !
+b0 '
+b11 )
+b11 %
+b100 $
+#40
+1#
+b0 %
+b0 )
+b101 &
+b101 $
+#42
+b101 !
+b101 '
+0#
+b1 )
+b1 %
+b101 $
+#44
+b1 "
+b1 (
+b10 !
+b10 '
+b10 %
+b10 )
+b101 $
+#46
+b1 !
+b1 '
+b10 "
+b10 (
+b11 )
+b11 %
+b101 $
+#48
+b0 !
+b0 '
+b0 "
+b0 (
+1#
+b0 %
+b0 )
+b110 &
+b110 $
+#50
+b110 !
+b110 '
+0#
+b1 )
+b1 %
+b110 $
+#52
+b11 !
+b11 '
+b10 %
+b10 )
+b110 $
+#54
+b10 !
+b10 '
+b1 "
+b1 (
+b11 )
+b11 %
+b110 $
+#56
+b0 !
+b0 '
+b0 "
+b0 (
+1#
+b0 %
+b0 )
+b111 &
+b111 $
+#58
+b111 !
+b111 '
+0#
+b1 )
+b1 %
+b111 $
+#60
+b1 "
+b1 (
+b11 !
+b11 '
+b10 %
+b10 )
+b111 $
+#62
+b10 !
+b10 '
+b11 )
+b11 %
+b111 $
+#64
