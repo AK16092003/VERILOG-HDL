@@ -8,3 +8,8 @@ This repo is for practicing verilog programs (as a part of my Digital System Des
 
 ## Timing Diagram
 <img width="790" alt="image" src="https://user-images.githubusercontent.com/97865565/194007272-9337be3b-bb38-4ef8-bbe6-4787004cc914.png">
+
+## Necessary commands   
+`iverilog -o division_tb.vvp division_tb.v`   
+`vvp division_tb.vvp`   
+`gtkwave division_tb.vcd`   
